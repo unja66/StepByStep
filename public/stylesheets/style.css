@@ -1,0 +1,39 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.footer {
+	width:100%;
+	margin-top:50px;
+	padding-bottom:30px;
+	padding-top:15px;
+	background-color:cornflowerblue;
+}
+
+
+.footer a {
+	color: white;
+	font-size: large;
+	padding-left: 20px;
+}
+
+.snapshot {
+	margin-top: 30px;
+	background-color:whitesmoke;
+	padding: 20px;
+	padding-bottom: 40px;
+}
+
+.snapshot .date {
+	font-size: 30px;
+}
+
+.snapshot .desc {
+	padding: 20px;
+	font-size: 20px;
+}
